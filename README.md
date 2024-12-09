@@ -40,8 +40,8 @@ I've worked on a few projects (less than I would've like to) using various techn
   - Be skilled enough to play La Campanella by Franz Liszt
 
 ## 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/marco.bossle.villanova-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.bossle.villanova@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/marcobosslevillanova-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcobosslevillanova/)
-[![GitHub](https://img.shields.io/badge/apecuca-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apecuca)
-[![Itch.io](https://img.shields.io/badge/apecuca-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://apecuca.itch.io/)
-[![Instagram](https://img.shields.io/badge/pac_marco-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pac_marco/)
+[![Gmail](https://img.shields.io/badge/marco.bossle.villanova%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marco.bossle.villanova@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/marcobosslevillanova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcobosslevillanova/)
+[![GitHub](https://img.shields.io/badge/apecuca-%23121011?style=flat&logo=GitHub&logoColor=white&color=%23121011)](https://github.com/apecuca)
+[![Itch.io](https://img.shields.io/badge/apecuca-%23ff0b34?style=flat&logo=itch.io&logoColor=white)](https://apecuca.itch.io/)
+[![Instagram](https://img.shields.io/badge/pac_marco-%23e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pac_marco/)
