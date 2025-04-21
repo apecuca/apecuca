@@ -23,11 +23,13 @@ I've worked on a few projects (less than I would've like to) using various techn
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apecuca&layout=compact)
 
 ## 🌱 Present and future
 - Currently, I'm...
+  - Working as a C++ developer trainee at Audaces
   - Developing my own Game Engine
   	- This project is on the first phase: Study and Framework
   - Finishing my Bachelor's degree in Game and Digital Entertainment Design
