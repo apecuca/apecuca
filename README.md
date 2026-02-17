@@ -25,13 +25,12 @@ I've worked on a few projects (less than I would've like to) using various techn
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apecuca&layout=compact)
+[//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apecuca&layout=compact)"
 
 ## 🌱 Present and future
 - Currently, I'm...
-  - Working as a C++ developer trainee at Audaces
-  - Developing my own Game Engine
-  	- This project is on the first phase: Study and Framework
+  - Working as a Junior C++ developer at Audaces
+  - Developing my own Game Engine specialized in Desktop Games
   - Finishing my Bachelor's degree in Game and Digital Entertainment Design
   - Studying to start a Bachelor in Music
 - Someday I will...
