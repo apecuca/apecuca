@@ -25,7 +25,8 @@ I've worked on a few projects (less than I would've like to) using various techn
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-[//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apecuca&layout=compact)"
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apecuca&layout=compact&theme=transparent&hide_border=true) |
+| ------------- |
 
 ## 🌱 Present and future
 - Currently, I'm...
